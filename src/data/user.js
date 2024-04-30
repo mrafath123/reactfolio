@@ -1,82 +1,82 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Reactfolio by Mohammed Rafath M ",
+		name: "Mohammed Rafath M.",
+		email: "md.rafath08@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		github: "https://github.com/mrafath123",
+		linkedin: "https://www.linkedin.com/in/mohammed-rafath-m-334589269/",
+		instagram: "https://instagram.com/rafath_rocks",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Cloud engineer and always ready to learn new things.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Driven Bachelor of Technology in Information Technology student, passionate about innovation and detail,ready to embark on a dynamic journey in IT. Committed to leveraging academic prowess and practical skills for groundbreaking projects and organizational success. Eager to collaborate with industry leaders, contribute to cutting-edge solutions, and evolve in the rapidly changing IT landscape.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Mohammed Rafath M. I live in Coimbatore-India, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Driven Bachelor of Technology in Information Technology student, passionate about innovation and detail,ready to embark on a dynamic journey in IT. Committed to leveraging academic prowess and practical skills for groundbreaking projects and organizational success. Eager to collaborate with industry leaders, contribute to cutting-edge solutions, and evolve in the rapidly changing IT landscape.",
 	},
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Idea for those who want success",
 	},
 
 	projects: [
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"E616, An online platform that connects environmental enthusiasts, scientists, and local communities to monitor and protect biodiversity..",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/mrafath123/E616.git",
 		},
 
 		{
 			title: "Project 2",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Menu-Based Chatbot using Lex Amazon,This project implements a menu-based chatbot using Lex Amazon for placing drink orders. The chatbot offers a selection of drinks including Coffee, Cappuccino, Tea, and Lime Juice.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/mrafath123/Menu-based-chatbot-using-AWS-.git",
 		},
 
 		{
 			title: "Project 3",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Resume Creator and Downloader,This Flask application allows users to create their resume by submitting their details through a form. The submitted information is used to generate a text file, which is then stored on an AWS S3 bucket. Additionally, users can download their generated resume file.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/mrafath123/resume-creator-aws.git",
 		},
 
 		{
 			title: "Project 4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Flask S3 Image Upload,This is a simple Flask web application for uploading images to Amazon S3 (Simple Storage Service). Uploaded images are stored in an S3 bucket and can be accessed via signed URLs.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/mrafath123/Flask-S3-image-Uploader.git",
 		},
 
 		{
 			title: "Project 5",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Flask-ErrorLogExtractor-aws,This is a Flask web application that allows users to upload multiple text files (logs), extracts error lines from the files, consolidates them into a single output file, and then stores the output file in an AWS S3 bucket. Users can also download the consolidated error log file.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/mrafath123/Flask-ErrorLogExtractor-aws-.git",
 		},
 	],
 };
